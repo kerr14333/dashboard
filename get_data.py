@@ -11,7 +11,7 @@ from datetime import date
 print("""
 	  *********************** Getting Data for Tutorial *************************************
 	  Data is originally from "https://download.bls.gov/pub/time.series/ln/ln.data.1.AllData"
-	  The download is about 350MB and may take a moment to finish. Maybe get a cup of coffee
+	  The download is about 350MB and may take a moment to finish. Maybe get a cup of coffee.
 	  Note that I only take monthly series.
 	  ***************************************************************************************
 
